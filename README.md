@@ -43,7 +43,6 @@ $ docker run -it --rm --pid=host myhtop
 ```
 ### sources
 - https://docs.docker.com/engine/reference/run/
-- https://hub.docker.com/
 
 
 
