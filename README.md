@@ -42,5 +42,4 @@ Use the following command to run htop inside a container
 $ docker run -it --rm --pid=host myhtop
 ```
 ### sources
-- https://docs.docker.com/engine/reference/run/
 - <a href="https://docs.docker.com/engine/reference/run/">there is nothing better than docker documentation</a>
